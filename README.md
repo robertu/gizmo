@@ -6,7 +6,6 @@ OS: debian 11 bullseye, Python 3.11.1, Oracle 19c, cx-oracle 8.3.0
 
 packages:
 
-* python3-rich
 * python3-invoke
 * python3-dotenv
 
