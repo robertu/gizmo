@@ -11,7 +11,6 @@ packages:
 
 
 Install packages:
-
 ```
 apt install -y python3-rich python3-invoke python3-apt python3-dotenv
 ```
