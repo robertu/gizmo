@@ -1,5 +1,4 @@
 # Environment builder based on invoke
-
 ## Requirements
 
 OS: debian 11 bullseye, Python 3.11.1, Oracle 19c, cx-oracle 8.3.0
